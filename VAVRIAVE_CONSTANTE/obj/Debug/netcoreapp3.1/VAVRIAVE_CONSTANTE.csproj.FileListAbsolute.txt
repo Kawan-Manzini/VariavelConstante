@@ -1,0 +1,14 @@
+D:\Praticando-c#\VAVRIAVE_CONSTANTE\VAVRIAVE_CONSTANTE\bin\Debug\netcoreapp3.1\VAVRIAVE_CONSTANTE.exe
+D:\Praticando-c#\VAVRIAVE_CONSTANTE\VAVRIAVE_CONSTANTE\bin\Debug\netcoreapp3.1\VAVRIAVE_CONSTANTE.deps.json
+D:\Praticando-c#\VAVRIAVE_CONSTANTE\VAVRIAVE_CONSTANTE\bin\Debug\netcoreapp3.1\VAVRIAVE_CONSTANTE.runtimeconfig.json
+D:\Praticando-c#\VAVRIAVE_CONSTANTE\VAVRIAVE_CONSTANTE\bin\Debug\netcoreapp3.1\VAVRIAVE_CONSTANTE.runtimeconfig.dev.json
+D:\Praticando-c#\VAVRIAVE_CONSTANTE\VAVRIAVE_CONSTANTE\bin\Debug\netcoreapp3.1\VAVRIAVE_CONSTANTE.dll
+D:\Praticando-c#\VAVRIAVE_CONSTANTE\VAVRIAVE_CONSTANTE\bin\Debug\netcoreapp3.1\VAVRIAVE_CONSTANTE.pdb
+D:\Praticando-c#\VAVRIAVE_CONSTANTE\VAVRIAVE_CONSTANTE\obj\Debug\netcoreapp3.1\VAVRIAVE_CONSTANTE.csproj.AssemblyReference.cache
+D:\Praticando-c#\VAVRIAVE_CONSTANTE\VAVRIAVE_CONSTANTE\obj\Debug\netcoreapp3.1\VAVRIAVE_CONSTANTE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praticando-c#\VAVRIAVE_CONSTANTE\VAVRIAVE_CONSTANTE\obj\Debug\netcoreapp3.1\VAVRIAVE_CONSTANTE.AssemblyInfoInputs.cache
+D:\Praticando-c#\VAVRIAVE_CONSTANTE\VAVRIAVE_CONSTANTE\obj\Debug\netcoreapp3.1\VAVRIAVE_CONSTANTE.AssemblyInfo.cs
+D:\Praticando-c#\VAVRIAVE_CONSTANTE\VAVRIAVE_CONSTANTE\obj\Debug\netcoreapp3.1\VAVRIAVE_CONSTANTE.csproj.CoreCompileInputs.cache
+D:\Praticando-c#\VAVRIAVE_CONSTANTE\VAVRIAVE_CONSTANTE\obj\Debug\netcoreapp3.1\VAVRIAVE_CONSTANTE.dll
+D:\Praticando-c#\VAVRIAVE_CONSTANTE\VAVRIAVE_CONSTANTE\obj\Debug\netcoreapp3.1\VAVRIAVE_CONSTANTE.pdb
+D:\Praticando-c#\VAVRIAVE_CONSTANTE\VAVRIAVE_CONSTANTE\obj\Debug\netcoreapp3.1\VAVRIAVE_CONSTANTE.genruntimeconfig.cache
